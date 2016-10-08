@@ -1,0 +1,10 @@
+/Users/Rajesh/Projects/RedisClientTest/RedisClientTest/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Rajesh/Projects/RedisClientTest/RedisClientTest/bin/Debug/RedisClientTest.exe.mdb
+/Users/Rajesh/Projects/RedisClientTest/RedisClientTest/bin/Debug/RedisClientTest.exe
+/Users/Rajesh/Projects/RedisClientTest/RedisClientTest/obj/x86/Debug/RedisClientTest.exe
+/Users/Rajesh/Projects/RedisClientTest/RedisClientTest/obj/x86/Debug/RedisClientTest.exe.mdb
+/Users/Rajesh/Projects/RedisClientTest/RedisClientTest/bin/Debug/ServiceStack.Interfaces.dll
+/Users/Rajesh/Projects/RedisClientTest/RedisClientTest/bin/Debug/ServiceStack.Text.dll
+/Users/Rajesh/Projects/RedisClientTest/RedisClientTest/bin/Debug/ServiceStack.Common.dll
+/Users/Rajesh/Projects/RedisClientTest/RedisClientTest/bin/Debug/ServiceStack.Redis.dll
+/Users/Rajesh/Projects/RedisClientTest/RedisClientTest/bin/Debug/StackExchange.Redis.dll
